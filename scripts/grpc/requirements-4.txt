@@ -1,2 +1,2 @@
 Jinja2 >= 2.10
-protobuf >= 4.21.12, < 5.0dev
+protobuf >= 4.21.12, < 7.0
